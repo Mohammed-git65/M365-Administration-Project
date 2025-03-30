@@ -26,4 +26,17 @@ As an M365 Administrator, to implement Email Retention and Archiving Policies fo
 
 ![image](https://github.com/user-attachments/assets/a9540632-2ff7-4618-8c38-33e51306f9de)
 
+**Create a Retention Tag**
+
+![image](https://github.com/user-attachments/assets/7fb074b0-3aa0-46db-b912-fd19d3e76df3)
+
+![image](https://github.com/user-attachments/assets/972cbf62-1d08-4933-9e55-9e32fa9a0da3)
+
+![image](https://github.com/user-attachments/assets/b4dc0ddf-3a5c-4991-915f-65f101291112)
+
+![image](https://github.com/user-attachments/assets/3a7ee9be-af7e-4896-aee3-c7b60888186b)
+
+
+
+
 
