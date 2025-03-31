@@ -1,7 +1,9 @@
 # Configuring Email Security to Prevent Phishing Attacks
 
 ## Introduction
-Phishing attacks significantly threaten organizations, leading to data breaches, credential theft, and financial losses. **Fabrikam Inc.** has experienced an increase in phishing emails.
+Phishing attacks significantly threaten organizations, leading to data breaches, credential theft, and financial losses. **Fabrikam Inc.** has experienced an increase in phishing emails. To safeguard its sensitive information and maintain organizational integrity, robust security solutions are essential. Microsoft Defender for Office 365 is a cloud-based security platform designed to mitigate risks by offering advanced protection for emails and collaboration tools.
+
+In this project, I outlined the steps I took to configure Microsoft Defender for Office 365 to enhance an organization's security posture, protecting against email-based threats, phishing attempts, and other malicious attacks.
 
 ## Solution Overview
 To mitigate phishing risks,  I implemented the following security measures:
@@ -20,10 +22,10 @@ To mitigate phishing risks,  I implemented the following security measures:
 To do that:
 - I went to Microsoft Defender Portal: https://security.microsoft.com
 - Sign in as a security administrator or a Global administrator
-- Navigate to **Email & Collaboration** > **Policies & Rules** > **Threat Policies** > **Anti-Phishing**.
-- Define the policy name. In this case, I used **Fabrikam Anti-Phishing Policy**
-- I add **protected users, domains, and mailbox intelligence**.
-- Then, I enable **impersonation protection**.
+- I Navigated to **Email & Collaboration** > **Policies & Rules** > **Threat Policies** > **Anti-Phishing**.
+- Then, I set up a policy for high-level employees and defined the policy name. In this case, I used **Fabrikam Anti-Phishing Policy**
+- I added **protected users, domains, and mailbox intelligence**.
+- Then, I enabled **impersonation protection**.
 - I finally reviewed the policy and then clicked on Done to apply the policy
 
 ![image](https://github.com/user-attachments/assets/cc149fce-f485-4ddb-9451-c5057d0c6d05)
@@ -38,7 +40,7 @@ To do that:
 
 
 - Here I added the domain
-![image](https://github.com/user-attachments/assets/02785050-ff71-4bb6-9e24-5d78efd21891)
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/94b2c4d8-f0af-4297-bf8d-53803fc1ff38" />
 
 ![image](https://github.com/user-attachments/assets/c501a290-1a4a-4fe3-a298-182a3cc64da7)
 
@@ -52,7 +54,7 @@ To do that:
 
 - I went to Microsoft Defender Portal: https://security.microsoft.com
 - Sign in as a security administrator or a Global administrator
-- Navigate to **Email & Collaboration** > **Policies & Rules** > **Threat Policies** > **Anti-Spam**.
+- I navigate to **Email & Collaboration** > **Policies & Rules** > **Threat Policies** > **Anti-Spam**.
 - Then click on **+ Create** to create new policies
 
 ![image](https://github.com/user-attachments/assets/5a7f06bc-04d6-4263-93d3-2bc91cbb0015)
