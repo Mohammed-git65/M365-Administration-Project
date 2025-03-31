@@ -1,7 +1,7 @@
 # Configuring Email Security to Prevent Phishing Attacks
 
 ## Introduction
-Phishing attacks significantly threaten organizations, leading to data breaches, credential theft, and financial losses. **Fabrikam Inc.** has experienced an increase in phishing emails. To safeguard its sensitive information and maintain organizational integrity, robust security solutions are essential. Microsoft Defender for Office 365 is a cloud-based security platform designed to mitigate risks by offering advanced protection for emails and collaboration tools.
+Phishing attacks significantly threaten organizations, leading to data breaches, credential theft, and financial losses. **Fabrikam Inc.** has experienced an increase in phishing emails. Robust security solutions are essential to safeguard sensitive information and maintain organizational integrity. Microsoft Defender for Office 365 is a cloud-based security platform designed to mitigate risks by offering advanced protection for emails and collaboration tools.
 
 In this project, I outlined the steps I took to configure Microsoft Defender for Office 365 to enhance an organization's security posture, protecting against email-based threats, phishing attempts, and other malicious attacks.
 
@@ -40,7 +40,7 @@ To do that:
 
 
 - Here I added the domain
-<img width="469" alt="image" src="https://github.com/user-attachments/assets/94b2c4d8-f0af-4297-bf8d-53803fc1ff38" />
+<img width="805" alt="image" src="https://github.com/user-attachments/assets/94b2c4d8-f0af-4297-bf8d-53803fc1ff38" />
 
 ![image](https://github.com/user-attachments/assets/c501a290-1a4a-4fe3-a298-182a3cc64da7)
 
@@ -59,7 +59,8 @@ To do that:
 
 ![image](https://github.com/user-attachments/assets/5a7f06bc-04d6-4263-93d3-2bc91cbb0015)
 
-![image](https://github.com/user-attachments/assets/9a368b9e-5548-42b1-b781-c2c4f05d73a4)
+<img width="805" alt="image" src="https://github.com/user-attachments/assets/e1d71fd4-f34b-4c38-aeba-55b5a9f384a2" />
+
 
 - Here are the Actions to be taken
 ![image](https://github.com/user-attachments/assets/39276b9c-ccd4-4331-8a3e-3c3c6e7015b2)
@@ -70,24 +71,27 @@ To do that:
 
 ## **Step 3: Implementing Safe Links and Safe Attachments**  
 1. **To enable Safe Attachments**:
-- Navigate to **Threat Policies** > **Safe Attachments**.
-- Create a new policy to **scan attachments for malware** and define the policy
-- I configure options to **block or quarantine** suspicious files.
+- I navigated to **Threat Policies** > **Safe Attachments**.
+- Created a new policy to **scan attachments for malware** and define the policy
+- I configured options to **block or quarantine** suspicious files.
 - Then I reviewed and applied the policy.
 
 ![image](https://github.com/user-attachments/assets/ad1133b5-fbed-42d3-bf0c-677c24d54dfe)
 
-![image](https://github.com/user-attachments/assets/863b678a-d798-4617-9ada-e656c1bd9ec5)
+<img width="806" alt="image" src="https://github.com/user-attachments/assets/22d29c10-e9e9-4f69-aeac-c98c40ea0fa9" />
 
+- As shown above, I selected the domain name for the Safe Attachments policy in Microsoft 365 Defender, and the protection was automatically applied to all email addresses within that domain.
+
+This ensures that any email address using the domain benefits from the Safe Attachments policy, which enhances security by scanning email attachments in real-time to detect and block malicious content
 ![image](https://github.com/user-attachments/assets/d0a58b73-47ec-4c57-91dd-557266bb422c)
 
 ![image](https://github.com/user-attachments/assets/01081a2e-e027-47d0-a975-49581ca5ef29)
 
 2. **Enable Safe Links**:
 To do that:
-- Navigate to **Threat Policies** > **Safe Links**.
+- I navigated to **Threat Policies** > **Safe Links**.
 - I click **Create policy** and define the policy.
-- I Enable real-time scanning of **URL links in emails**.
+- I Enabled real-time scanning of **URL links in emails**.
 - Then I reviewed and applied the policy.
 
 ![image](https://github.com/user-attachments/assets/0d5eae24-54bb-4903-88f6-df2b2590e686)
