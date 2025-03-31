@@ -6,12 +6,33 @@ A financial services company needs to retain emails for 7 years due to complianc
 As an M365 Administrator, to implement Email Retention and Archiving Policies for a financial services company to retain emails for 7 years due to compliance requirements
 
 **Step 1: Access the Microsoft Purview Compliance Portal**
-- Sign in to your Microsoft 365 account with administrator credentials.
-- Then, navigate to the Microsoft Purview Compliance Portal or https://compliance.microsoft.com/
+- I signed in to my Microsoft 365 account with administrator credentials.
+- Then, I navigated to the Microsoft Purview Compliance Portal or https://compliance.microsoft.com/
 ![image](https://github.com/user-attachments/assets/9b502a1a-4dd3-4cbb-8d31-f5a18babbbd2)
 
-**Step 2: Create a Retention Policy**
-- Click on Solutions > Data Lifecycle Management
+**Step 2: Create a Retention Tag**
+- I clicked on **Solutions** > **Data Lifecycle Management** > **Exchange (Legacy)** > I clicked on the **Exchange (Legacy) drop-down and selected Retention tags** > Then, I clicked on the **+ sign to create a New Retention tag**
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/65ea404c-fbf9-4570-ac92-ac3100cd7cd5" />
+
+In the screenshot below, I'm in the process of creating a retention tag
+
+This means that emails will be kept for seven years before any retention action (such as deletion or archiving) is applied.
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/b5e6cff3-3479-475f-949d-b0861bc84a6f" />
+
+Here, I defined how the tag would be applied
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/9f0de53d-61c7-43bd-8d69-877f3fb116c5" />
+
+Then, I defined the retention policy
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/d7b1acf3-5744-4ec9-b6ab-cb30a3d0d81a" />
+
+Finally, I reviewed the tag and submitted
+
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/7141d05a-6c39-422d-801b-cd2fa8ef57ce" />
+
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/c2c1527c-1980-4daa-955c-616c3355ea47" />
+
+
+
 ![image](https://github.com/user-attachments/assets/14ab7628-11e0-4398-9479-fe75dc6e854d)
 
 - Expand the Data Lifecycle Management > MRM Retention Policies > New Policy to start a new policy
