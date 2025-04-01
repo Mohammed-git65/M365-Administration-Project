@@ -3,7 +3,7 @@ A law firm needs to ensure that emails containing sensitive legal documents are 
 
 ## **Step 1: Is Understanding Microsoft Purview Message Encryption**
 
-Microsoft Purview Message Encryption is an online service that's built on Azure Rights Management (Azure RMS) which is part of Microsoft Purview Information Protection. This service includes encryption, identity, and authorization policies to help secure your email.
+Microsoft Purview Message Encryption is an online service that's built on Azure Rights Management (Azure RMS), which is part of Microsoft Purview Information Protection. This service includes encryption, identity, and authorization policies to help secure your email.
 
 ## **Here are the Key Features of Microsoft Purview Message Encryption**
 - Enforces encryption based on predefined rules
@@ -15,7 +15,7 @@ Microsoft Purview Message Encryption is an online service that's built on Azure 
 ## **Step 2: Is to Configure Mail Flow Rules to Automatically Encrypt Emails for the law firm**
 To ensure emails containing sensitive legal documents are encrypted, the law firm will create mail flow rules in Exchange Online. These rules will detect specific keywords or attachments and apply encryption automatically
 
-**To Configure Mail Flow Rules Here are the Steps to Take**
+**To Configure Mail Flow Rules, Here are the Steps to Take**
 
 1. Access the Exchange Admin Center (EAC)
 
@@ -60,24 +60,30 @@ Under Do the following, I choose:
 
 ![image](https://github.com/user-attachments/assets/78a52461-f7ac-4fd1-bc60-b0485f794323)
 
-After Reviewing, click on Done to effect the policy.
+After reviewing, click on Done to effect the policy.
 
 **Step 3: Is to send and verify an Encrypted Email**
 - I send an Encrypted email from Outlook to Gmail to verify
-![image](https://github.com/user-attachments/assets/25325e3d-24fd-4258-985e-a47ab876aa32)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/18d5fd9c-a3c0-4e4c-ac04-7fcdc94f41fd" />
+
 
 Here's the Encrypted message in my Gmail
-![image](https://github.com/user-attachments/assets/c415b2f4-c4a2-4177-a7fc-7e2edd479b7f)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/fb6e2459-e770-4f87-8b4f-a7d36d900ad5" />
+
 
 Here you're requested to either sign in with your Gmail account or an OTP
-![image](https://github.com/user-attachments/assets/6c66dcb8-9890-4f36-8d40-29a4454a0e21)
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/390244c6-b72a-4646-b8c1-9f0750ee47a7" />
+
 
 Here I opted for an OTP to open the email
-![image](https://github.com/user-attachments/assets/7b6e084a-9090-41e6-a045-2abf7d59c82a)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/9f0cb503-21bd-4d8b-a608-3d8bebb6c5f7" />
+
 
 Finally, I open the Encrypted message using the OPT
 
-![image](https://github.com/user-attachments/assets/ca69bf80-b5bb-4c96-a42b-245a12579267)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/e497cc57-f1cb-4328-9b74-07c1933c9443" />
+
 
 ## **Conclusion**
 
