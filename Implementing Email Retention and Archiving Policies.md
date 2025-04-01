@@ -1,10 +1,10 @@
 ## **Introduction**
 
-In the financial services industry, organizations must comply with strict regulatory requirements for data retention and security. One key requirement is the long-term retention of emails to ensure compliance with industry regulations.
+Organizations in the financial services industry must comply with strict regulatory requirements for data retention and security. One key requirement is the long-term retention of emails to ensure compliance with industry regulations.
 
 This project focuses on configuring email retention and archiving policies in Microsoft 365 to help a financial services company meet its 7-year email retention requirement. The implementation will ensure that emails are securely retained, archived for long-term storage, and available for compliance investigations when necessary.
 
-By leveraging Microsoft Purview Compliance Center, Exchange Online Archiving, and Litigation Hold, this solution will provide a structured approach to email governance, ensuring that the organization remains compliant while optimizing mailbox storage.
+This solution will provide a structured approach to email governance by leveraging Microsoft Purview Compliance Center, Exchange Online Archiving, and Litigation Hold. It will ensure that the organization remains compliant while optimizing mailbox storage.
 
 
 **Solution Overview**
@@ -52,25 +52,41 @@ To do that:
 
 - Here I provided a name for the policy and then added the tag as shown on the screenshot below:
 
-<img width="808" alt="image" src="https://github.com/user-attachments/assets/c6a126c7-6c56-4561-a312-4206f2efc0c7" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/c6a126c7-6c56-4561-a312-4206f2efc0c7" />
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/e196c6e3-1aba-4c4d-bb05-819afc42460f" />
 
 
+- Finally, I reviewed and submitted the policy
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/80293564-f59d-4514-8472-65b8c3bef59a" />
 
-- Finally is to review and submit the policy
-![image](https://github.com/user-attachments/assets/3527ef33-70b1-4553-a474-e01bbe6d9372)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/d1344198-1990-4a36-a7d2-359e25558f14" />
 
+**The next step is to go the Exchange Online and apply it to all mailboxes**
 
-![image](https://github.com/user-attachments/assets/a9540632-2ff7-4618-8c38-33e51306f9de)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/0455ebe8-2442-46a4-bf1e-fc44c716b4af" />
 
-**Create a Retention Tag**
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/23c5e863-b111-483c-9bf7-c8b8f1f9c06a" />
 
-![image](https://github.com/user-attachments/assets/7fb074b0-3aa0-46db-b912-fd19d3e76df3)
+**Step 3: I created a Retention Label**
+To do that:
+As shown in the screenshot below, I clicked on Solution > Data Lifecycle > Retention Label > I clicked on the + to create a new label
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/4fcca605-d351-4883-ab64-dfd9bee40fd2" />
 
-![image](https://github.com/user-attachments/assets/972cbf62-1d08-4933-9e55-9e32fa9a0da3)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/2ed0354a-0960-414a-bb16-fc497b6823c6" />
 
-![image](https://github.com/user-attachments/assets/b4dc0ddf-3a5c-4991-915f-65f101291112)
+Below, I defined the label settings
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/17b77950-13a0-4b64-bf7a-1baf4f21ab76" />
 
-![image](https://github.com/user-attachments/assets/3a7ee9be-af7e-4896-aee3-c7b60888186b)
+This is the definition of the period
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/c86381c9-976a-4df2-baed-6e8422fb5f26" />
+Here, I choose what happens next to the label
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/3cd9ad6c-aea8-47a8-8dad-3f83930a96fd" />
+
+Finally, I reviewed and created the label
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/f2059161-caf7-4e12-924f-1eeb8a9e7770" />
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/cead6e3c-31ca-422f-9afd-0716c1485dd4" />
 
 
 
