@@ -109,11 +109,13 @@ To do that:
 **The Screenshots below only show that it passes only SPF**
 <img width="939" alt="img11" src="https://github.com/user-attachments/assets/fd34363e-6587-4f36-ab90-5f5531c37a69" />
 ![image](https://github.com/user-attachments/assets/09556709-d7b5-4ba7-8123-208c3553ccf6)
-![image](https://github.com/user-attachments/assets/ff850751-9d45-450c-a706-11422b125f4e)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/e10086d8-dce1-4e6f-81d6-6f95694ea06e" />
+
 
 So after I published the **Cname** in my domain provider and then enabled **DKIM**, it passed both **SPF** and **DKIM**
 
-![image](https://github.com/user-attachments/assets/80a86282-cade-4380-8b3f-59eeae8aabb2)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/5fbdea7e-669c-4e35-9ae2-50d1649b8e56" />
+
 ![image](https://github.com/user-attachments/assets/7e8c1b11-f7ce-4bdc-89ab-9a4c31d91356)
 
 
