@@ -22,3 +22,6 @@ Here, the shared mailbox is created successfully
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/be086857-f299-4e43-85cd-28d8d55bd49c" />
 
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/01bb33a4-a026-408f-9209-894e00fab234" />
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/0c5ad1ac-4dba-4bf3-99f3-bcded72a430f" />
