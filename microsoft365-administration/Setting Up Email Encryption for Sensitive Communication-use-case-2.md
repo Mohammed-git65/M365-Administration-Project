@@ -9,11 +9,11 @@ Microsoft Purview Message Encryption is an online service that's built on Azure 
 - Enforces encryption based on predefined rules
 - Works seamlessly with Microsoft Outlook and Outlook Web Access
 - Protects sensitive information by encrypting email content
-- Allows external recipients to securely read encrypted emails
+- Allows external recipients to read encrypted emails securely
 
 
 ## **Step 2: Is to Configure Mail Flow Rules to Automatically Encrypt Emails for the law firm**
-To ensure emails containing sensitive legal documents are encrypted, the law firm will create mail flow rules in Exchange Online. These rules will detect specific keywords or attachments and apply encryption automatically
+The law firm will create mail flow rules in Exchange Online to ensure emails containing sensitive legal documents are encrypted. These rules will detect specific keywords or attachments and apply encryption automatically
 
 **To Configure Mail Flow Rules, Here are the Steps to Take**
 
@@ -24,20 +24,20 @@ To ensure emails containing sensitive legal documents are encrypted, the law fir
 
 2. Create a New Mail Flow Rule
 
-- Navigate to Mail Flow → Rules → Click + Add a Rule → Select Create a New Rule.
+- Navigate to Mail Flow → Rules → Click + Add a Rule → Select Create a New Rule to create a new rule
 ![image](https://github.com/user-attachments/assets/b7436432-4fc2-4ae7-869d-14b9de9d3d4a)
 
-![image](https://github.com/user-attachments/assets/25113b1e-4b6d-4116-82c6-10b5c454d359)
+- Click the **+ Add a Rule to Add a new Rule**
 
 ![image](https://github.com/user-attachments/assets/239b288f-b22e-44aa-81e6-ec4f461a33f9)
 
-3. Define the Conditions for Encryption
-- Name the rule: I named it Encrypt Emails with Sensitive Legal Documents
-Then, I apply the rule if:
+3. Here, I defined the Conditions for Encryption to **set the rule Conditions**
+- To name the rule: I named it Encrypt Emails with Sensitive Legal Documents.
+Then, I apply the rule if the **Conditions** are met
 
 ![image](https://github.com/user-attachments/assets/20064c99-5921-44de-be5e-45ba5884fd6d)
 
-The subject or body contains specific words: I used the keywords like "Confidential"
+Here, the subject or body contains specific word(s): So, I used the keyword **"Confidential"**
 
 ![image](https://github.com/user-attachments/assets/d0e5263c-7fd1-4bb8-be57-01887c44b300)
 
@@ -49,38 +49,35 @@ Under Do the following, I choose:
 
 ![image](https://github.com/user-attachments/assets/485b1222-8cca-4fa7-8585-554b9c704535)
 
-![image](https://github.com/user-attachments/assets/ec789fe1-a85b-4a11-89b8-c3f9d54f6f59)
-
-- Set the rule settings
+- Here, is to **set the rule settings** and **clicked Next**
 ![image](https://github.com/user-attachments/assets/6ee8c7e1-311c-40bd-a7b3-fc2ae39289d3)
 
-- Review and Finish
+- Finally, it's to review the **rules**
 
 ![image](https://github.com/user-attachments/assets/9d813714-2ab2-43b8-bb7f-a85770c159f0)
 
+- After reviewing, I clicked on Done to create the **Rule**, and it was successfully created
 ![image](https://github.com/user-attachments/assets/78a52461-f7ac-4fd1-bc60-b0485f794323)
 
-After reviewing, click on Done to effect the policy.
-
-**Step 3: Is to send and verify an Encrypted Email**
-- I send an Encrypted email from Outlook to Gmail to verify
+**Step 3: Is to test and verify an Encrypted Email**
+- So, I sent an Encrypted email from my Outlook to Gmail to verify the **rule**
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/18d5fd9c-a3c0-4e4c-ac04-7fcdc94f41fd" />
 
 
-Here's the Encrypted message in my Gmail
+- Here's the Encrypted message delivered in my Gmail
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/fb6e2459-e770-4f87-8b4f-a7d36d900ad5" />
 
 
-Here you're requested to either sign in with your Gmail account or an OTP
+- Here you're requested to either sign in with your **Gmail account** or an **OTP**
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/390244c6-b72a-4646-b8c1-9f0750ee47a7" />
 
 
-Here I opted for an OTP to open the email
+- So, I opted for an OTP to open the email
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/9f0cb503-21bd-4d8b-a608-3d8bebb6c5f7" />
 
 
-Finally, I open the Encrypted message using the OPT
+Finally, I open the **Encrypted message using the OPT**
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/e497cc57-f1cb-4328-9b74-07c1933c9443" />
 
