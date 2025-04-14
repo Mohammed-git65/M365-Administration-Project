@@ -72,27 +72,3 @@ To do that:
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/23c5e863-b111-483c-9bf7-c8b8f1f9c06a" />
 
-**Step 3: I created a Retention Label**
-To do that:
-As shown in the screenshot below, I clicked on Solution > Data Lifecycle > Retention Label > I clicked on the + to create a new label
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/4fcca605-d351-4883-ab64-dfd9bee40fd2" />
-
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/2ed0354a-0960-414a-bb16-fc497b6823c6" />
-
-Below, I defined the label settings
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/17b77950-13a0-4b64-bf7a-1baf4f21ab76" />
-
-This is the definition of the period
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/c86381c9-976a-4df2-baed-6e8422fb5f26" />
-Here, I choose what happens next to the label
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/3cd9ad6c-aea8-47a8-8dad-3f83930a96fd" />
-
-Finally, I reviewed and created the label
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/f2059161-caf7-4e12-924f-1eeb8a9e7770" />
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/cead6e3c-31ca-422f-9afd-0716c1485dd4" />
-
-
-
-
-
