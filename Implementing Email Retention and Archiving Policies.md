@@ -33,10 +33,11 @@ Here, I defined how the tag would be applied
 Then, I defined the retention settings
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/d7b1acf3-5744-4ec9-b6ab-cb30a3d0d81a" />
 
-Finally, I reviewed the tag and submitted
+- Finally, I reviewed the tag and submitted
 
 <img width="807" alt="image" src="https://github.com/user-attachments/assets/7141d05a-6c39-422d-801b-cd2fa8ef57ce" />
 
+- Here, the tag was successfully created
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/c2c1527c-1980-4daa-955c-616c3355ea47" />
 
 **Step 2: I Created a Retention Policy**
@@ -45,6 +46,8 @@ To do that:
 - I signed in to my Microsoft 365 account with administrator credentials.
 - Then, I navigated to the Microsoft Purview Compliance Portal or https://compliance.microsoft.com/
 ![image](https://github.com/user-attachments/assets/9b502a1a-4dd3-4cbb-8d31-f5a18babbbd2)
+
+- Then, I clicked on **Solution** > **Data LifeCycle Management
 ![image](https://github.com/user-attachments/assets/14ab7628-11e0-4398-9479-fe75dc6e854d)
 
 - Expand the Data Lifecycle Management > MRM Retention Policies > I clicked on New Policy to start a new policy
