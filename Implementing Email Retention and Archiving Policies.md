@@ -63,6 +63,7 @@ To do that:
 - Finally, I reviewed and submitted the policy
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/80293564-f59d-4514-8472-65b8c3bef59a" />
 
+- And the policy is successfully created
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/d1344198-1990-4a36-a7d2-359e25558f14" />
 
 **The next step is to go the Exchange Online and apply it to all mailboxes**
