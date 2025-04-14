@@ -1,9 +1,14 @@
 ## **Setting Up Email Encryption for Sensitive Communication**
 A law firm needs to ensure that emails containing sensitive legal documents are encrypted when sent externally.
 
-## **Step 1: Is Understanding Microsoft Purview Message Encryption**
+**Introduction**
 
-Microsoft Purview Message Encryption is an online service that's built on Azure Rights Management (Azure RMS), which is part of Microsoft Purview Information Protection. This service includes encryption, identity, and authorization policies to help secure your email.
+In the legal industry, safeguarding client confidentiality and maintaining the integrity of sensitive information is paramount. Law firms frequently exchange confidential legal documents with clients, external partners, and other stakeholders via email. With the growing risk of cyberattacks and data breaches, it is essential to implement secure methods for transmitting sensitive information to prevent unauthorized access and ensure compliance with regulatory requirements.
+
+**Objective**
+
+The objective of this project is to implement an email encryption solution that automatically detects and encrypts outbound emails containing sensitive legal documents. This solution should ensure that all external communications involving confidential information are securely transmitted, thereby protecting client data, maintaining compliance with legal and industry standards, and upholding the firm’s reputation for confidentiality and professionalism.
+
 
 ## **Here are the Key Features of Microsoft Purview Message Encryption**
 - Enforces encryption based on predefined rules
@@ -12,7 +17,7 @@ Microsoft Purview Message Encryption is an online service that's built on Azure 
 - Allows external recipients to read encrypted emails securely
 
 
-## **Step 2: Is to Configure Mail Flow Rules to Automatically Encrypt Emails for the law firm**
+## **Step 1: Is to Configure Mail Flow Rules to Automatically Encrypt Emails for the law firm**
 The law firm will create mail flow rules in Exchange Online to ensure emails containing sensitive legal documents are encrypted. These rules will detect specific keywords or attachments and apply encryption automatically
 
 **To Configure Mail Flow Rules, Here are the Steps to Take**
