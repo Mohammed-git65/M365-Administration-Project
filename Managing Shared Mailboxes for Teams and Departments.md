@@ -36,3 +36,7 @@ Managing Shared Mailboxes for Teams and Departments
 - Log in to Outlook OWA and click on Options, and tick the Show From to enable the Send As
 
   <img width="964" alt="image" src="https://github.com/user-attachments/assets/69c41b4a-4df8-4793-bbe8-97ea0e5cdea4" />
+
+- This is the delivered email
+
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/197780ef-5446-46b5-a1c1-f5650fbabdde" />
