@@ -14,14 +14,25 @@ Managing Shared Mailboxes for Teams and Departments
 - Click on **Mailboxes** and then, click on **Add a shared mailbox** to create a new Mailbox
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/86f76858-dc68-45df-abad-d8b55ebbadce" />
 
+- Here, I set the display name and the Shared Mailbox Email
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/ecda5d85-d13d-47b6-961e-c88631128ea3" />
 
-Here, the shared mailbox is created successfully
+- Here, the shared mailbox is created successfully
 
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/f69bfcc9-838a-48f2-a018-b350014a8d7a" />
 
+- Now, add delegation permission
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/be086857-f299-4e43-85cd-28d8d55bd49c" />
 
+- Two members have been delegated to **Send As**
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/01bb33a4-a026-408f-9209-894e00fab234" />
 
+- Here, the two added members are confirmed to have **full access** to the **Mailbox**
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/0c5ad1ac-4dba-4bf3-99f3-bcded72a430f" />
+
+
+**Step 3: Test Sending and Receiving Emails from the Shared Mailbox**
+
+- Log in to Outlook OWA and click on Options, and tick the Show From to enable the Send As
+
+  <img width="964" alt="image" src="https://github.com/user-attachments/assets/69c41b4a-4df8-4793-bbe8-97ea0e5cdea4" />
