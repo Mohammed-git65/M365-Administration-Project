@@ -22,7 +22,12 @@ Managing Shared Mailboxes for Teams and Departments
 
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/f69bfcc9-838a-48f2-a018-b350014a8d7a" />
 
+**Using Windows PowerShell to Create the Shared Mailbox**
+
+<img width="967" alt="image" src="https://github.com/user-attachments/assets/6f5366aa-2f99-45e9-9f56-cd13e3a64b90" />
+
 - Now, add delegation permission
+
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/be086857-f299-4e43-85cd-28d8d55bd49c" />
 
 - Assign members and delegate them to **Send As**
@@ -83,3 +88,8 @@ Managing Shared Mailboxes for Teams and Departments
 - Compose and send an email
 
 3. Receive Email:
+
+- Here's the test email sent to the shared mailbox
+
+<img width="969" alt="image" src="https://github.com/user-attachments/assets/301ecce2-1378-4250-a973-63b0d1b35c3b" />
+
