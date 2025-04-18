@@ -16,7 +16,7 @@ This solution will provide a structured approach to email governance by leveragi
 
 **Step 1: Access the Microsoft Purview Compliance Portal**
 - I signed in to my Microsoft 365 account with administrator credentials.
-- Then, I navigated to the Microsoft Purview Compliance Portal or https://compliance.microsoft.com/
+- Then, I navigated to the Microsoft Purview Compliance Portal or click on the link directly https://compliance.microsoft.com/
 ![image](https://github.com/user-attachments/assets/9b502a1a-4dd3-4cbb-8d31-f5a18babbbd2)
 
 - I clicked on **Solutions** > **Data Lifecycle Management** > **Exchange (Legacy)** > I clicked on the **Exchange (Legacy) drop-down and selected Retention tags** > Then, I clicked on the **+ sign to create a New Retention tag**
@@ -44,10 +44,10 @@ Then, I defined the retention settings
 
 To do that:
 - I signed in to my Microsoft 365 account with administrator credentials.
-- Then, I navigated to the Microsoft Purview Compliance Portal or https://compliance.microsoft.com/
+- Then, I navigated to the Microsoft Purview Compliance Portal or click on the link directly https://compliance.microsoft.com/
 ![image](https://github.com/user-attachments/assets/9b502a1a-4dd3-4cbb-8d31-f5a18babbbd2)
 
-- Then, I clicked on **Solution** > **Data LifeCycle Management
+- Then, I clicked on **Solution** > **Data LifeCycle Management**
 ![image](https://github.com/user-attachments/assets/14ab7628-11e0-4398-9479-fe75dc6e854d)
 
 - Expand the Data Lifecycle Management > MRM Retention Policies > I clicked on New Policy to start a new policy
@@ -72,3 +72,11 @@ To do that:
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/23c5e863-b111-483c-9bf7-c8b8f1f9c06a" />
 
+
+**Conclusion**
+
+In conclusion, the implementation of email retention and archiving policies in Microsoft 365 for the financial services company has been successfully completed. By configuring retention policies and labels in Microsoft Purview, implementing mailbox archiving for long-term storage, and setting up litigation hold for compliance investigations, the organization is now well-equipped to meet its 7-year email retention requirement.
+
+This structured approach to email governance ensures that emails are securely retained and archived, optimizing mailbox storage while maintaining compliance with industry regulations. The use of Microsoft Purview Compliance Center, Exchange Online Archiving, and Litigation Hold provides a robust solution that supports the organization's commitment to data security and regulatory compliance.
+
+With these measures in place, the company can confidently manage its email data, ensuring that it is available for compliance investigations when necessary, thereby upholding the highest standards of data retention and security.
