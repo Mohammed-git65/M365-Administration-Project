@@ -73,6 +73,7 @@ To do that:
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/23c5e863-b111-483c-9bf7-c8b8f1f9c06a" />
 
 
+
 **Conclusion**
 
 In conclusion, the implementation of email retention and archiving policies in Microsoft 365 for the financial services company has been successfully completed. By configuring retention policies and labels in Microsoft Purview, implementing mailbox archiving for long-term storage, and setting up litigation hold for compliance investigations, the organization is now well-equipped to meet its 7-year email retention requirement.
