@@ -18,24 +18,50 @@ The company faces a critical challenge in preventing the unauthorized disseminat
 
 1. Sign in to Exchange Admin Center:
 
+<img width="966" alt="image" src="https://github.com/user-attachments/assets/5644d9ad-6032-4e66-9e44-0a65fe01659c" />
+
 - Go to Exchange Admin Center.
+
+<img width="967" alt="image" src="https://github.com/user-attachments/assets/f045aadb-ff52-45ab-9b80-5451c4d01a42" />
+
 - Navigate to Mail flow > Rules.
-  
+
+<img width="967" alt="image" src="https://github.com/user-attachments/assets/a28ac285-72b3-4758-a79f-b39faeace39d" />
+
 2. Create a New Rule:
 
-- Click Add a rule.
+<img width="967" alt="image" src="https://github.com/user-attachments/assets/8db0c860-071a-497e-a1b1-eade9883b735" />
+
+- Click + Add a rule.
+
+<img width="967" alt="image" src="https://github.com/user-attachments/assets/c7e1aa77-6531-4151-9de4-7d8a54745012" />
+
 - Select Create a new rule.
-  
+
+<img width="966" alt="image" src="https://github.com/user-attachments/assets/bd04c3f8-39ee-4769-abdb-f669c3888922" />
+
 3. Configure the Rule:
   
-- Name: Enter a unique name for the rule (e.g., "Block Credit Card Numbers").
-- Apply this rule if: Select The message contains sensitive information.
+- Name: Enter a unique name for the rule.
+- Apply this rule if:
 - Sensitive information types: Choose Credit Card Number.
-- Do the following: Select Reject the message with the explanation and enter a suitable message (e.g., "Emails containing credit card numbers are not allowed").
+- Do the following: Select Reject the message with the explanation and enter a suitable message ("Emails containing credit card numbers are not allowed").
 
-4. Save the Rule:
+<img width="967" alt="image" src="https://github.com/user-attachments/assets/2e56c283-4ffb-4301-9269-6343035abaa3" />
 
-- Click Save to create the rule.
+- Then, set the rule settings
+
+<img width="966" alt="image" src="https://github.com/user-attachments/assets/022c13c5-ee3b-4198-bbe8-a37ee53d7a55" />
+
+4. Review the Rule and Finish.
+
+<img width="969" alt="image" src="https://github.com/user-attachments/assets/16f477c9-4f29-4613-b476-333c92c64467" />
+
+
+- Click Finish to create the rule.
+
+<img width="968" alt="image" src="https://github.com/user-attachments/assets/50a12636-4d68-45d9-983b-d442c6a34657" />
+
 
 **Step 5: Test and Monitor Rule Effectiveness**
 
