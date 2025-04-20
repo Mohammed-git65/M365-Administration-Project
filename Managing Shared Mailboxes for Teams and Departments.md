@@ -1,5 +1,18 @@
 **Introduction**
 
+In today's fast-paced business environment, efficient communication is crucial for maintaining customer satisfaction and team productivity. The customer service team handles support inquiries, and to streamline this process, I'm implementing a shared mailbox system. This initiative aims to enhance collaboration, ensure timely responses, and improve overall service quality.
+
+**Statement Overview**
+
+The project involves creating and configuring shared mailboxes for our customer service team. By setting appropriate permissions, such as Send As, Send on Behalf, and Full Access, we will empower team members to manage support inquiries seamlessly. Additionally, monitoring email activity and generating reports will provide valuable insights into our team's performance and help identify areas for improvement.
+
+**Objectives**
+
+Create and Configure Shared Mailboxes: Establish shared mailboxes that can be accessed by multiple team members, ensuring efficient handling of support inquiries.
+Set Mailbox Permissions: Assign permissions to team members, allowing them to send emails on behalf of the shared mailbox, respond to inquiries, and manage mailbox contents.
+Monitor Email Activity and Reporting: Implement tools and processes to track email activity, generate reports, and analyze performance metrics to optimize our customer service operations.
+Hands-on Labs: Provide practical training sessions where team members can create shared mailboxes, assign permissions, and test sending and receiving emails to ensure they are comfortable with the new system.
+
 Managing Shared Mailboxes for Teams and Departments
 
 **To Create and Configure Shared Mailboxes**
@@ -33,6 +46,10 @@ Managing Shared Mailboxes for Teams and Departments
 - Assign members and delegate them to **Send As**
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/01bb33a4-a026-408f-9209-894e00fab234" />
 
+- Using Windows PowerShell to do same
+
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/399bb83f-5dd1-4639-b0d5-b554f70bec32" />
+
 - Here, the two added members are confirmed to have **full access** to the **Mailbox**
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/0c5ad1ac-4dba-4bf3-99f3-bcded72a430f" />
 
@@ -42,7 +59,7 @@ Managing Shared Mailboxes for Teams and Departments
 
 1. To test for **Send As**
 
-- Log in to Outlook OWA and click on Options, and tick the Show From to enable the Send As
+- Log in to Outlook OWA 
 
 - Click “New Email”
 
