@@ -98,7 +98,7 @@ Monitor Email Activity and Reporting: Implement tools and processes to track ema
   
 - Click From > Click “Other email address…”
 
-- Choose customerservice@yourdomain.com or type it in manually 
+- Choose the shared mailbox email or type it in manually 
 
 - Compose and send an email
 
@@ -107,4 +107,9 @@ Monitor Email Activity and Reporting: Implement tools and processes to track ema
 - Here's the test email sent to the shared mailbox
 
 <img width="969" alt="image" src="https://github.com/user-attachments/assets/301ecce2-1378-4250-a973-63b0d1b35c3b" />
+
+**Conclusion**
+
+This project successfully demonstrated how implementing a shared mailbox system in Microsoft 365 can significantly improve customer service operations. By creating and configuring a shared mailbox, assigning appropriate access permissions (Send As, Send on Behalf, and Full Access), and validating its functionality through thorough testing. 
+This hands-on experience deepened my understanding of Microsoft 365 administration, particularly around mailbox management and team communication strategies in a support-driven environment.
 
