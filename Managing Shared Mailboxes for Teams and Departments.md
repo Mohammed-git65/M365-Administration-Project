@@ -4,16 +4,14 @@ In today's fast-paced business environment, efficient communication is crucial f
 
 **Statement Overview**
 
-The project involves creating and configuring shared mailboxes for our customer service team. By setting appropriate permissions, such as Send As, Send on Behalf, and Full Access, we will empower team members to manage support inquiries seamlessly. Additionally, monitoring email activity and generating reports will provide valuable insights into our team's performance and help identify areas for improvement.
+The project involves creating and configuring shared mailboxes for the customer service team. Setting appropriate permissions, such as Send As, Send on Behalf, and Full Access, this will empower team members to manage support inquiries seamlessly. Additionally, monitoring email activity and generating reports will provide valuable insights into the team's performance and help identify areas for improvement.
 
 **Objectives**
 
 Create and Configure Shared Mailboxes: Establish shared mailboxes that can be accessed by multiple team members, ensuring efficient handling of support inquiries.
 Set Mailbox Permissions: Assign permissions to team members, allowing them to send emails on behalf of the shared mailbox, respond to inquiries, and manage mailbox contents.
-Monitor Email Activity and Reporting: Implement tools and processes to track email activity, generate reports, and analyze performance metrics to optimize our customer service operations.
-Hands-on Labs: Provide practical training sessions where team members can create shared mailboxes, assign permissions, and test sending and receiving emails to ensure they are comfortable with the new system.
+Monitor Email Activity and Reporting: Implement tools and processes to track email activity, generate reports, and analyze performance metrics to optimize the customer service operations.
 
-Managing Shared Mailboxes for Teams and Departments
 
 **To Create and Configure Shared Mailboxes**
 
