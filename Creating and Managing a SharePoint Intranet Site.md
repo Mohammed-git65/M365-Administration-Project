@@ -41,3 +41,50 @@
 - After, adding the image, click on Republish to republish the changes
 
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/85cbddc4-1198-4420-a643-4aa9125ba5f2" />
+
+**Step 2: Add News Feeds**
+- Click on Add News to add news item
+
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/7b525b8a-0f51-401f-9fb8-ac3ab99f50c2" />
+
+- Here's the display of the added news item
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/b583480a-781e-48e3-bac6-ca81311ef340" />
+
+**Step 3: Add An Event for Meeting Links**
+
+- Click on Edit and Select Events
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/de407124-a776-4b38-9375-a3d021722b5d" />
+
+- Then, set up your event and save
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/5987b2f5-5439-4999-be02-cb0481d2ac1c" />
+
+
+**Step 4: Add Quick links**
+
+- To do that: click on edit and select quick link
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/07eac469-2e1d-406e-87dd-0593c62f4a4f" />
+
+- Then, click on add link to add new link
+
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/3b37d7df-33fb-4d72-8406-9d8b56a9d41a" />
+
+- Select from a link
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/b2fe5e71-f761-4575-8cf5-e4288433b964" />
+
+- Then, paste the link and click on Add to add the link
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/95b50f7f-6529-4183-8658-5b0bea87cab9" />
+
+- Choose a Thumbnill Icon
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/91d1431b-e84b-4b17-80e0-0773c6f4e2ed" />
+
+**Step 5: Add User Permission to the site**
+- To do that:
+- Go to settings
+
+<img width="289" alt="image" src="https://github.com/user-attachments/assets/75641f3d-a808-4472-8168-e5e16372da04" />
