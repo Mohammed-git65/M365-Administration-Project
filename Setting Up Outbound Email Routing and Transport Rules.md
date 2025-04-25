@@ -11,8 +11,7 @@ The company faces a critical challenge in preventing the unauthorized disseminat
 1. Create Mail Flow Rules: Develop and configure mail flow rules to inspect and block emails containing credit card numbers.
 2. Set Up Data Loss Prevention (DLP) Policies: Implement DLP policies to prevent the leakage of sensitive information and ensure compliance with data protection regulations.
 3. Implement Email Disclaimers: Add disclaimers to outbound emails to inform recipients about the company's data protection policies and disclaim liability for unauthorized data sharing.
-4. Configure Auto-Forwarding Rules: Set up rules to manage and control the auto-forwarding of emails to external recipients, ensuring sensitive data is not inadvertently shared.
-5. Test and Monitor Effectiveness: Conduct thorough testing of the implemented rules and policies to ensure their effectiveness and monitor their performance over time.
+4. Test and Monitor Effectiveness: Conduct thorough testing of the implemented rules and policies to ensure their effectiveness and monitor their performance over time.
 
 **Create Mail Flow Rules to Inspect and Block Emails with Sensitive Data**
 
@@ -119,15 +118,16 @@ Step 6: Test and Monitor Rule Effectiveness
 
 Step 7: Monitor Reports
 
-Exchange Admin Center > Mail flow > Message trace
+- Go Exchange Admin Center > Mail flow > Message trace
 
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/1e1e4d99-3df2-44e5-9cf9-fffb2a7888a5" />
 
 - Here's the report for the Message Trace to review
 
-<img width="341" alt="image" src="https://github.com/user-attachments/assets/87fdeb78-597f-4292-a324-a7c515f5f0d9" />
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/87fdeb78-597f-4292-a324-a7c515f5f0d9" />
 
 **Summary**
+
 By combining Transport Rules, DLP Policies, and Disclaimers, one can create a comprehensive outbound email security strategy in Microsoft 365 that protects sensitive data like credit card numbers.
 
 
