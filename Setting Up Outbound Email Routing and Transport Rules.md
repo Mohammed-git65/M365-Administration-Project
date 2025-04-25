@@ -43,15 +43,17 @@ The company faces a critical challenge in preventing the unauthorized disseminat
 3. Configure the Rule:
   
 - Name: Enter a unique name for the rule.
-- Apply this rule if:
-- Sensitive information types: Choose a Credit Card Number.
+- Apply this rule if: The Subject or body
+- Sensitive information types: Block Credit Card Numbers
 - Do the following: Select Reject the message with the explanation and enter a suitable message ("Emails containing credit card numbers are not allowed").
 
-<img width="967" alt="image" src="https://github.com/user-attachments/assets/2e56c283-4ffb-4301-9269-6343035abaa3" />
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/a4419a23-eb34-464f-adf0-d6a3180d5d2e" />
+
 
 - Then, set the rule settings
 
-<img width="966" alt="image" src="https://github.com/user-attachments/assets/022c13c5-ee3b-4198-bbe8-a37ee53d7a55" />
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/c5d33f2e-fd32-4a33-bd60-9aaea464569c" />
+
 
 4. Review the Rule and Finish.
 
@@ -63,6 +65,19 @@ The company faces a critical challenge in preventing the unauthorized disseminat
 <img width="968" alt="image" src="https://github.com/user-attachments/assets/50a12636-4d68-45d9-983b-d442c6a34657" />
 
 <img width="963" alt="image" src="https://github.com/user-attachments/assets/0299e285-83ab-49c8-9d95-83b964f19a10" />
+
+**Step 4: Choose Locations to Apply the Policy**
+Select Exchange email (and others like OneDrive or SharePoint if needed).
+
+You can include or exclude specific users/groups.
+
+Click Next
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/68002aa4-3f36-484e-ac73-8ba4b0586857" />
+
+- Then define the policy settings
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d7e9836a-42fc-4b1a-a6ce-1dc13199c93b" />
 
 **Step 5: Test and Monitor Rule Effectiveness**
 
