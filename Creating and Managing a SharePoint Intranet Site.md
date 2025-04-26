@@ -63,11 +63,13 @@
 
 
 
+
 **Step 3: Add An Event for Meeting Links**
 
 - Click on Edit and Select Events
 
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/de407124-a776-4b38-9375-a3d021722b5d" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/923d8d29-fabb-447d-8aa1-fac5a2779eca" />
+
 
 - Then, set up your event and save
 
