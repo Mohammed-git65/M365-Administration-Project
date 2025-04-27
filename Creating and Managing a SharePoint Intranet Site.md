@@ -52,6 +52,7 @@
 
 
 **Step 2: Add News Feeds**
+
 - Click on Add News to add a news item
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/0f67dafe-49c9-422a-97fa-a0122551cf15" />
@@ -80,18 +81,23 @@
 
 - To do that: click on edit and select quick link
 
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/07eac469-2e1d-406e-87dd-0593c62f4a4f" />
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/88a963e2-7b50-465c-91ae-f70d1556559c" />
 
-- Then, click on add link to add new link
 
-<img width="952" alt="image" src="https://github.com/user-attachments/assets/3b37d7df-33fb-4d72-8406-9d8b56a9d41a" />
+- Then, click on add a link to add a new link
+
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/cc4f8c64-7dda-4b94-bc2c-1f0c2177b795" />
+
 
 - Select from a link
 
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/b2fe5e71-f761-4575-8cf5-e4288433b964" />
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/a8945576-030c-4ff6-b775-53df80ffab3b" />
+
 
 - Then, paste the link and click on Add to add the link
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/95b50f7f-6529-4183-8658-5b0bea87cab9" />
+
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/855a3b9e-052e-4774-b108-5b13355cb8ad" />
+
 
 - Choose a Thumbnill Icon
 
@@ -101,4 +107,12 @@
 - To do that:
 - Go to settings
 
-<img width="289" alt="image" src="https://github.com/user-attachments/assets/75641f3d-a808-4472-8168-e5e16372da04" />
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/9a49ed25-e30a-4da4-a023-aaac885fae93" />
+
+- Then Select Site Permissions to give Users Permissions
+
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/3cc69a95-5d3b-4cae-a094-d844789899aa" />
+
+- Select Advanced Permissions settings to give the permission
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/0ac78cf9-7e08-477c-a53b-658e3a8e7333" />
