@@ -138,4 +138,56 @@ Click Finish.
 
 - Select Advanced Permissions settings to give the permission
 
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/0ac78cf9-7e08-477c-a53b-658e3a8e7333" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/0ac78cf9-7e08-477c-a53b-658e3a8e7333" />
+
+To Create an Information Technology Department
+
+- Select Create to create the site
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/c61d557e-7f4f-4551-adff-97d5b5ead261" />
+
+Select Teamsite
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/49e09879-2114-422c-bc3f-c40a83a1aa11" />
+
+Then, select a Template for the site
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/c1327898-a3d5-4603-bdc7-42c7ec1144a3" />
+
+Preview the template and then select Use Template 
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/23c8771a-e526-4d86-b577-4db5ea6144dd" />
+
+Give your site a name and click next
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/8e03f404-d7a8-4295-b32d-d63bcdef9d06" />
+
+
+Select your language and other options, then click on Create a site
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/a5635b37-4e8b-43bf-b390-41d34394318e" />
+
+Add site owners and members and select Finish
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/592c94fe-7f13-4242-b323-ce335352f956" />
+
+Here's the site 
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/b57a0b38-88f1-4a7b-97c9-65db728ef282" />
+
+Finace
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/944911f0-d8d8-4e16-8ced-3b64f1de2a34" />
+
+Select language and other options
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/04c36a1d-65fe-42c7-9188-f0f8d21e8088" />
+
+Add owners and members
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/34c76b77-a4ee-46d7-b772-41c75d03ef1e" />
+
+Site created
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/48f17efa-f0ba-4a27-9d5b-7a95a9991952" />
+
