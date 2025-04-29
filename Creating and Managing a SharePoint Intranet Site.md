@@ -1,3 +1,26 @@
+Go to: https://admin.microsoft.com
+
+From the left panel, select SharePoint > then Active Sites > + Create.
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/d47e9f05-a6dd-4059-8365-9728c51c5ac6" />
+
+Choose a Communication site based on department needs.
+
+
+Fill in:
+
+Site name
+
+Site address
+
+Privacy settings (Private for teams, Public for departments like HR or Legal)
+
+Assign site owners and members.
+
+Click Finish.
+
+
+
 - Click Create site
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/7eb7a3ec-6d6a-4e75-8367-3df99df7de57" />
