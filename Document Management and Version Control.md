@@ -43,7 +43,7 @@ Add news
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/8d09bb3d-bfc1-46d3-9488-d8f3b5805c3e" />
 
-**Step 3: Set up document libraries
+**Step 3: Set up document libraries**
 
 - Go to settings
 
@@ -66,5 +66,51 @@ Give the document a name
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/e8bb9daf-65fd-41d1-8eb1-a89978ef22ec" />
 
+Columns
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/58e28b0e-a878-4111-bc5e-1c258fbfa8c0" />
 
 
+Add a column > choice
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/88930c2a-4cd9-4312-9197-bddeebf8a82c" />
+
+
+Enable Versioning:
+
+- Click on settings
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/abf4541b-a3a5-47bc-af6c-d2d95b79cbd7" />
+
+Library Settings
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/1ea1171d-5dac-4f9f-a1fa-6ea844a50175" />
+
+Versioning Settings
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/fd915a65-d389-4593-b04e-f3064dc3b692" />
+
+Here you make the necessary settings
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/bb92711d-f96b-4999-95ff-ca9b641b4e2b" />
+
+Approval workflow
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/007da6fa-8b00-41ec-8f48-ee5244537f37" />
+
+The Sign-off is still pending here
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/ab028796-9e2c-4a06-8713-cf872b540bda" />
+
+
+To approve the workflow go to Outlook on the web
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/8ed5a9bc-dec0-4d4a-a80b-8a67f93771df" />
+
+Click on Approve and Comment, then click on Submit to approve the document
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/ce9c9d82-b209-4823-aa3c-5be7671a30ab" />
+
+After the approval, the Sign-off status becomes Approved
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/225061a6-d203-4b53-a64a-f74c3aca2deb" />
