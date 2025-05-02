@@ -96,7 +96,8 @@ Here you make the necessary settings
 
 Approval workflow
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/007da6fa-8b00-41ec-8f48-ee5244537f37" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/833712a1-81c3-4636-8a18-980192629c0d" />
+
 
 The Sign-off is still pending here
 
