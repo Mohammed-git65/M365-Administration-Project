@@ -151,6 +151,12 @@ Click OK.
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/d0fba96d-d2bd-4497-915e-8ff75ffcc699" />
 
+- Approval Status is still showing pending
+
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/09aaa366-6355-4605-aa6b-5fa4669940b5" />
+
+
 Approval workflow
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/833712a1-81c3-4636-8a18-980192629c0d" />
@@ -161,13 +167,18 @@ The Sign-off is still pending here
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/ab028796-9e2c-4a06-8713-cf872b540bda" />
 
 
-To approve the workflow go to Outlook on the web
+- To approve the workflow go to Outlook on the web
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/8ed5a9bc-dec0-4d4a-a80b-8a67f93771df" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/38147fdf-fc11-4d1f-bc28-1086866a98b3" />
 
-Click on Approve and Comment, then click on Submit to approve the document
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/ce9c9d82-b209-4823-aa3c-5be7671a30ab" />
+- Click on Approve and Comment, then click on Submit to approve the document
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/c4bc172c-2890-4260-9cc5-b8f2f9a8ea23" />
+
+- Here's the approved message
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/339d7419-28b9-4a10-a6f5-5bed602e1e9d" />
 
 After the approval, the Sign-off status becomes Approved
 
