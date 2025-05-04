@@ -1,14 +1,4 @@
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/21c895a9-9db2-414f-bc7e-acc90dae5779" />
-
-
-Select language and other options
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/041083a2-a066-4e8d-a175-97ff8fe02e68" />
-
-
-Add site owners and members
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/a8da0f39-72e1-4759-b9d9-8b2666a4360f" />
+**Step 1: Create a SharePoint for the Legal Team**
 
 Select Create to create a new site
 
@@ -43,56 +33,123 @@ Add news
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/8d09bb3d-bfc1-46d3-9488-d8f3b5805c3e" />
 
-**Step 3: Set up document libraries**
+**Step 3: Set up document libraries with metadata**
 
-- Go to settings
+- Click Settings 
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/0e9e353f-1ae1-4a17-aff0-e2316c81c7c7" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/0358e756-c6b6-49bc-80fb-ed9080c22e43" />
+
 
 Select site contents
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/b446eb3f-bd18-457c-b942-56f89f51ec6d" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/3f274315-5c4b-4e97-bf5f-a55b5d4022f1" />
 
+Click + New 
 
-Select New
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/a308935d-6d33-4640-bcfc-c5bba479107b" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/529ac71a-e9fd-4f58-bb54-5c28d9462c92" />
 
 Select Document Library
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/512bbf83-153d-4c00-ad9e-68bd3adac3d2" />
-
-Give the document a name
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/e8bb9daf-65fd-41d1-8eb1-a89978ef22ec" />
-
-Columns
-
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/58e28b0e-a878-4111-bc5e-1c258fbfa8c0" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/f4e399ad-fa07-4e0b-901d-2e5a80dfbcf0" />
 
 
-Add a column > choice
+Enter a name 
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/88930c2a-4cd9-4312-9197-bddeebf8a82c" />
+Add a description (Optional)
+
+Click Create
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/802a8453-3091-454c-aef0-ff124dfb2e44" />
+
+**Step 3: Add Metadata (Columns) to the Library**
+
+- Go to the newly created library
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/4f148898-df50-42ef-9477-21dd08706b8c" />
 
 
-Enable Versioning:
+- Click + Add column (from the header row)
 
-- Click on settings
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/56071eda-bc6c-455d-9e32-3823798de0a8" />
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/abf4541b-a3a5-47bc-af6c-d2d95b79cbd7" />
+- Choose a column type
 
-Library Settings
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/f1e69f3e-b0d7-4cba-9dcb-3ff0be90073f" />
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/1ea1171d-5dac-4f9f-a1fa-6ea844a50175" />
+- Set the name and options for each column, then click Save
 
-Versioning Settings
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/5775019c-8337-411c-8f38-967b0044edbf" />
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/fd915a65-d389-4593-b04e-f3064dc3b692" />
+- Upload or Create Documents
 
-Here you make the necessary settings
+- Click Upload
 
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/bb92711d-f96b-4999-95ff-ca9b641b4e2b" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/af992b1f-ddc9-4038-9d6f-c541bbcbeb93" />
+
+ - Upload Files to bring in existing contracts
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/86bd1612-2969-42d2-ac2e-7305502ed9dc" />
+
+
+**Step 5: Enable Document Versioning**
+
+- Go to your SharePoint site and open the document library
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/da8642fa-a199-49c0-a67b-625f688a9a1b" />
+
+
+- Click the Settings
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/d2430e17-910a-4469-a88d-6228f2454ee6" />
+
+
+- Library Settings
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/69160ff1-58bb-42af-ba10-6241965fffa2" />
+
+- Under General Settings, click Versioning Settings.
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/2f0bfb4d-3464-4c07-817f-fbf827b11672" />
+
+**Set the following**:
+
+Document Version History:
+
+- Choose either:
+
+- Create major versions only (recommended for formal documents like contracts).
+
+- Require content approval for submitted items (optional if using workflows).
+
+- Set how many versions to retain (default is 500; adjust based on retention policy).
+
+- Click OK to save.
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/1a212c96-93ae-491d-87fa-73382f67200d" />
+
+**Step 6: Enable File Check-In / Check-Out**
+
+Scroll to the Require Check Out section.
+
+Set Require documents to be checked out before they can be edited. to Yes.
+
+Click OK.
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/31d24753-067d-47f0-be51-114884ba4abb" />
+
+**Step 7: Configure and test document approval workflows**
+
+- Go to your SharePoint document library
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/7bb535fb-4c57-4470-b058-85dcf2572431" />
+
+- Click Automate
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/c7431808-685a-4890-8599-bad9ce5287a4" />
+
+- Flows
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/d0fba96d-d2bd-4497-915e-8ff75ffcc699" />
 
 Approval workflow
 
