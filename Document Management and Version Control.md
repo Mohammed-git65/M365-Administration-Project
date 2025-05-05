@@ -1,66 +1,81 @@
-##Introduction##
+**Introduction**
 
 
-In today's fast-paced legal environment, managing and tracking contract changes efficiently is crucial for maintaining accuracy and compliance. A robust document management system with version control capabilities is essential for legal teams to ensure that all contract modifications are properly documented and approved. This project aims to implement a comprehensive document repository that facilitates version control, approval workflows, and collaborative editing.**Step 1: Create a SharePoint for the Legal Team**
+Managing and tracking contract changes efficiently is crucial for maintaining accuracy and compliance in today's fast-paced legal environment. A robust document management system with version control capabilities is essential for legal teams to ensure that all contract modifications are properly documented and approved. This project aims to implement a comprehensive document repository that facilitates version control, approval workflows, and collaborative editing.
 
-Select Create to create a new site
+**Statement Overview**
+
+The legal team requires a document repository that stores contracts, tracks changes and maintains version history. This system will enable seamless collaboration among team members, ensuring that all edits and updates are accurately recorded. By implementing document libraries with metadata, co-authoring features, and file check-in/check-out functionalities, the team can enhance their document management processes and improve overall efficiency.
+
+**Objectives**
+
+Enable Document Versioning and Approval Workflows: Implement version control to track changes and maintain a history of contract modifications. Configure approval workflows to ensure that all changes are reviewed and authorized before finalizing.
+
+Set Up Document Libraries with Metadata: Create document libraries that include metadata to categorize and organize contracts effectively. This will facilitate easy retrieval and management of documents.
+
+Configure Co-Authoring and File Check-In/Check-Out: Enable co-authoring features to allow multiple team members to work on documents simultaneously. Implement file check-in/check-out functionalities to prevent conflicts and ensure that edits are properly managed.
+
+
+**Step 1: Create a SharePoint for the Legal Team**
+
+- Select Create to create a new site
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/1e1ae618-99e7-4ece-91d4-f4aaa05fcd39" />
 
-Select a site type
+- Select a site type
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/06fc1503-7228-42f2-b786-5995d8d38e8b" />
 
-Select a Template
+- Select a Template
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/808edab5-7752-49ef-897b-f8e44720cff1" />
 
-Select Use Template to use the Selected Template
+- Select Use Template to use the Selected Template
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/8a68beb4-9830-42ae-834d-e458d3c542d9" />
 
-Give your site a name
+- Give your site a name
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/99a03164-4a2f-47cd-8018-1e4cc261cf2c" />
 
 
-Set language and other options
+- Set language and other options
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/5705528c-8d13-4046-b2f5-3ad647b0f0ab" />
 
-Add site owners and members
+- Add site owners and members
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/c1f13e3c-8967-4a7c-9fb5-1e5feaa48c2f" />
 
-Add news
+- Add news
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/8d09bb3d-bfc1-46d3-9488-d8f3b5805c3e" />
 
-**Step 3: Set up document libraries with metadata**
+**Step 2: Set up document libraries with metadata**
 
 - Click Settings 
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/0358e756-c6b6-49bc-80fb-ed9080c22e43" />
 
 
-Select site contents
+- Select site contents
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/3f274315-5c4b-4e97-bf5f-a55b5d4022f1" />
 
-Click + New 
+- Click + New 
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/529ac71a-e9fd-4f58-bb54-5c28d9462c92" />
 
-Select Document Library
+- Select Document Library
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/f4e399ad-fa07-4e0b-901d-2e5a80dfbcf0" />
 
 
-Enter a name 
+- Enter a name 
 
-Add a description (Optional)
+- Add a description (Optional)
 
-Click Create
+- Click Create
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/802a8453-3091-454c-aef0-ff124dfb2e44" />
 
@@ -94,7 +109,7 @@ Click Create
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/86bd1612-2969-42d2-ac2e-7305502ed9dc" />
 
 
-**Step 5: Enable Document Versioning**
+**Step 4: Enable Document Versioning**
 
 - Go to your SharePoint site and open the document library
 
@@ -130,17 +145,17 @@ Document Version History:
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/1a212c96-93ae-491d-87fa-73382f67200d" />
 
-**Step 6: Enable File Check-In / Check-Out**
+**Step 5: Enable File Check-In / Check-Out**
 
-Scroll to the Require Check Out section.
+- Scroll to the Require Check Out section.
 
 Set Require documents to be checked out before they can be edited. to Yes.
 
-Click OK.
+- Click OK.
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/31d24753-067d-47f0-be51-114884ba4abb" />
 
-**Step 7: Configure and test document approval workflows**
+**Step 6: Configure and test document approval workflows**
 
 - Go to your SharePoint document library
 
@@ -160,14 +175,14 @@ Click OK.
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/09aaa366-6355-4605-aa6b-5fa4669940b5" />
 
 
-Approval workflow
+- Approval workflow
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/833712a1-81c3-4636-8a18-980192629c0d" />
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/919c625d-1a00-4185-9be2-b2760efbdc88" />
 
 
-The Sign-off is still pending here
+The Approval is still pending here
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/ab028796-9e2c-4a06-8713-cf872b540bda" />
 
