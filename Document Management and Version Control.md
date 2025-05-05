@@ -1,4 +1,7 @@
-**Step 1: Create a SharePoint for the Legal Team**
+##Introduction##
+
+
+In today's fast-paced legal environment, managing and tracking contract changes efficiently is crucial for maintaining accuracy and compliance. A robust document management system with version control capabilities is essential for legal teams to ensure that all contract modifications are properly documented and approved. This project aims to implement a comprehensive document repository that facilitates version control, approval workflows, and collaborative editing.**Step 1: Create a SharePoint for the Legal Team**
 
 Select Create to create a new site
 
