@@ -182,24 +182,5 @@ The Sign-off is still pending here
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/339d7419-28b9-4a10-a6f5-5bed602e1e9d" />
 
-After the approval, the Sign-off status becomes Approved
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/225061a6-d203-4b53-a64a-f74c3aca2deb" />
-
-Set up document libraries with Metadata
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/e5156b44-0ef2-49d3-aca1-b9e3f5c9af63" />
-
-Select choice to create a custom column
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/9b4a78ad-3abb-4e0b-ab12-0db790b2c8a9" />
-
-Make changes to the choice
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/997209ce-68f7-49a7-b888-ce806681cc61" />
-
-Metadata Created 
-
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/1fc74924-b595-4797-89c5-98b2951ea3cd" />
 
 
