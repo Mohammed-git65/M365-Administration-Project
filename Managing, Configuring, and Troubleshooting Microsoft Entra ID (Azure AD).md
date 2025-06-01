@@ -15,6 +15,7 @@ This project demonstrates how to manage, configure, and troubleshoot Microsoft E
 ### Step 1: **User and Group Management**
 
 - Create users manually and via bulk import
+  1.  Navigate to Identity > Users > Bulk Operations > Bulk Create
 - Create security and Microsoft 365 groups
 - Assign group-based licensing
 - Delegate admin roles
